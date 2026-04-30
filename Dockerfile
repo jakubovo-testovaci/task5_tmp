@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.11.15-slim
 
 # Nastavíme pracovní adresář v kontejneru
 WORKDIR /app
